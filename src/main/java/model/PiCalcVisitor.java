@@ -4,12 +4,6 @@ import gen.grammar.*;
 
 import java.util.*;
 
-/***
- * Known bugs:
- *
- * TO DO:
- * - Input that TyPiCaL can accept
- */
 
 public class PiCalcVisitor extends piBaseVisitor<String> {
 
